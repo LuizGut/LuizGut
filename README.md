@@ -1,5 +1,5 @@
 Ola, me chamo Luiz Gustavo
-Sou estudante d Ciencia da Computaçao. Atualmente estou em busca de experiência no mercado de trabalho.
+Sou estudante de Ciencia da Computaçao. Atualmente estou em busca de experiência no mercado de trabalho.
 
 <h1>Minhas Teconologias:</h1>
 <div>
